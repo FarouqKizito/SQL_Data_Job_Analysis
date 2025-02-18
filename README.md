@@ -220,11 +220,11 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 
 # What I Learned
 
-Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
+Throughout my SQL learning journey, I've built a solid foundation and sharpened key skills:
 
-- **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
-- **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
-- **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+🧩 Query Mastery: Learned to write complex SQL queries, efficiently joining tables and using WITH clauses to simplify data manipulation.
+📊 Data Aggregation: Gained confidence with GROUP BY, leveraging aggregate functions like COUNT() and AVG() to summarize data effectively.
+💡 Problem-Solving with SQL: Developed the ability to translate real-world questions into insightful queries, uncovering valuable patterns and trends.
 
 # Conclusions
 
